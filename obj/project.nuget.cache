@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7PJ7OdVuAq1/cRApN6qZ5bb6dgiqY4GFgAvt3hocPK68yUanlNklTpip4XOc3RC9rIgFXzE8jZycfzKhz/gO6Q==",
+  "success": true,
+  "projectFilePath": "D:\\Estudo de Desenvolvimento\\CSharp\\CepBrasilApi\\CepBrasilApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cleiton\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
